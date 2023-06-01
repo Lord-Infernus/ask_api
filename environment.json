@@ -1,0 +1,57 @@
+{
+	"id": "ac6fc434-53db-4fd7-bd0d-5c5d98e4abb1",
+	"name": "ASK-QA",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "http://ask-qa.portnov.com/api/v1",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "tokenStudent",
+			"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRydW1wQG1hZ2EuY29tIiwiaWF0IjoxNjg0ODY3NTMzLCJleHAiOjE2ODQ5NTM5MzN9.RM0sq4ADDX-HVswAv77mMgNFMZFvx4bAbtnOQsjLKR0",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "tokenTeacher",
+			"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImxvcmRfaW5mZXJudXNANTQubWsiLCJpYXQiOjE2ODU0MTE1ODAsImV4cCI6MTY4NTQ5Nzk4MH0.8mahhG5UPLxoiJ-8cRML6qxib7-6VFyiUZm9HrZd8nI",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "quizId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "studentId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "teacherId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "assignmentId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "assignmentGroupID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-05-30T07:18:53.497Z",
+	"_postman_exported_using": "Postman/10.14.5"
+}
